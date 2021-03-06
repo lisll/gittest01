@@ -1,0 +1,6 @@
+pig
+hive
+impala
+tez
+flink
+spark
